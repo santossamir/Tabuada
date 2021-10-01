@@ -1,0 +1,49 @@
+body{
+    background: cornflowerblue;
+}
+header{
+       text-align: center;  
+       color: white;
+       font: 18pt Times; 
+}
+section{
+    background-color: white;
+    padding: 18px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;   
+}
+#num{
+    height: 22px;
+}
+#botao{
+    width: 120px;
+    height: 28px;
+    border: 1px solid;
+    border-radius: 4px;
+    font-size: small;
+    letter-spacing: 0.5px;
+    margin-left: 5px;
+}
+
+#botao:hover{
+    background: rgba(48, 45, 45, 0.473);
+    color: white;
+    border: 1px solid rgba(48, 45, 45, 0.473);      
+}
+#seltab{
+   width: 180px;
+   margin-left: 75px;
+}
+#place:hover{
+    background: rgba(48, 45, 45, 0.473);
+}
+div{
+    padding: 8px;
+}
+footer{
+    text-align: center;
+    color: white; 
+    font-style: italic;
+}
